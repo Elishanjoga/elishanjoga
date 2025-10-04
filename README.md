@@ -1,6 +1,6 @@
-👋 Hi, I'm Elisha Njoga
+<h2>👋 Hi, I'm Elisha Njoga </h2>
 
-💻 Senior Software Engineer | QA Engineer | Agile Team Player
+<h1> 💻 Senior Software Engineer | QA Engineer | Agile Team Player </h1>
 
 I’m a passionate engineer with extensive experience in building scalable, high-performing applications and ensuring quality through robust test automation. I enjoy bridging the gap between development and QA, enabling teams to deliver software that is both innovative and reliable.
 
@@ -17,7 +17,7 @@ Runtime & APIs: Node.js (REST, GraphQL)
 
 Languages: C++, TypeScript, JavaScript
 
-Testing & QA
+<h2> Testing & QA </h2>
 
 Automation Tools: Playwright, Cypress, Selenium
 
@@ -25,7 +25,7 @@ Methodologies: BDD (Cucumber/Gherkin), TDD
 
 Practices: Agile, CI/CD, Test Strategy & Planning
 
-🧩 What I Do
+<h2>🧩 What I Do </h2>
 
 Architect end-to-end web applications with Angular, React & Node.js
 
@@ -37,7 +37,7 @@ Ensure product quality with QA-first practices in Agile teams
 
 Collaborate cross-functionally, championing team-first delivery
 
-📌 Highlighted Skills
+<h2> 📌 Highlighted Skills </h2>
 
 ✔️ Full-Stack Development (Frontend + Backend)
 ✔️ Test Automation (UI & API) with Playwright + BDD
