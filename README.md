@@ -4,14 +4,14 @@
 
 I’m a passionate engineer with extensive experience in building scalable, high-performing applications and ensuring quality through robust test automation. I enjoy bridging the gap between development and QA, enabling teams to deliver software that is both innovative and reliable.
 
-🚀 Tech Stack
-Frontend
+<h1>🚀 Tech Stack</h1>
+<h2>Frontend</h2>
 
 Frameworks/Libraries: Angular, React, Flutter
 
 Core: TypeScript, JavaScript, HTML5, CSS3 (SCSS, Tailwind, Responsive Design)
 
-Backend
+<h2>Backend</h2>
 
 Runtime & APIs: Node.js (REST, GraphQL)
 
@@ -45,7 +45,6 @@ Collaborate cross-functionally, championing team-first delivery
 ✔️ Cross-platform apps with Flutter
 ✔️ Strong foundation in C++ & Systems Programming
 
-🌟 GitHub Stats (Preview)
 
 🤝 Let's Connect
 
